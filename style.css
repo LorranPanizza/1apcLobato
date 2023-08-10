@@ -14,5 +14,6 @@ body {
 }
 
 .lcr {
-    background-image: url("carro.jpg");
+    background-color: aqua;
+    position: fixed;
 }
